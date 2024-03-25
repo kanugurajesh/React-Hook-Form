@@ -1,4 +1,6 @@
-🌟 star the repo if you like it
+### 🌟 star the repo if you like it
+
+# React Hook Form
 
 This repository contains the code for a form build using react hook form and tailwindcss
 
