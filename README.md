@@ -1,3 +1,7 @@
+🌟 star the repo if you like it
+
+This repository contains the code for a form build using react hook form and tailwindcss
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
